@@ -75,7 +75,7 @@ Habitual aspect as a property of text spans
 
 With Lena Weißmann and Kilu von Prince
 
-_9th Language & Technology Conference_. Pozna\'{n}, POL.
+_9th Language & Technology Conference_. Poznań, POL.
 
 - <a href="slides/tjuka2019_habitual_textspans_LTCworkshop.pdf" target="_blank">Slides</a>
 
