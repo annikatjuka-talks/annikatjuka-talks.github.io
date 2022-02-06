@@ -66,40 +66,35 @@ Back to [annikatjuka.com](https://annikatjuka.github.io/)
 
 <img style="border: 1px solid #000000" src="img/tjuka2018_fieldwork_elicitation_studentconf.png" width=" 320" height="200">
 
-_Elicitation in linguistic fieldwork -- or how to capture a speaker's view of the world_ 
-
-at 3rd Conference for Student Research. Bochum, DE.
+Elicitation in linguistic fieldwork -- or how to capture a speaker's view of the world
+_3rd Conference for Student Research_. Bochum, DE.
 
 - <a href="slides/tjuka2018_fieldwork_elicitation_studentconf.pdf" target="_blank">Slides</a>
 
 
 <img style="border: 1px solid #000000" src="img/tjuka2018_typological_studies_linguisticmeetup.png" width=" 320" height="200">
 
+Can typological studies show us how the brain processes language? 
+_5th Linguistik Meet-up Berlin-Potsdam_. Potsdam, DE.
+
 - <a href="slides/tjuka2018_typological_studies_linguisticmeetup.pdf" target="_blank">Slides</a>
-
-_Can typological studies show us how the brain processes language?_ 
-
-at 5th Linguistik Meet-up Berlin-Potsdam. Potsdam, DE.
 
 <img style="border: 1px solid #000000" src="img/tjuka2018_vietnamese_tenselessnes_StutSconf.png" width=" 320" height="200">
 
-_Don't judge from the outside: A deeper look into the Vietnamese tense system_ 
-
-at 63rd Linguistics Student Conference (StuTS). Kiel, DE.
+Don't judge from the outside: A deeper look into the Vietnamese tense system
+_63rd Linguistics Student Conference (StuTS)_. Kiel, DE.
 
 - <a href="slides/tjuka2018_vietnamese_tenselessnes_StutSconf.pdf" target="_blank">Slides</a>
 
 
 <img style="border: 1px solid #000000" src="img/tjuka2018_vietnamese_tenslessnes_twistconf.png" width=" 320" height="200">
 
-_Time and perspective in a supposedly tenseless language_ 
-
-at 12th T.W.I.S.T. Student Conference for Linguistics. Leiden, NL.
+Time and perspective in a supposedly tenseless language
+_12th T.W.I.S.T. Student Conference for Linguistics_. Leiden, NL.
 
 - <a href="slides/tjuka2018_vietnamese_tenslessnes_twistconf.pdf" target="_blank">Slides</a>
 
 # 2017
 
-_Panda vs. Bank - Wörter als Auslöser von Emotionen_ 
-
-at 2nd Conference for Student Research. Berlin, DE.
+Panda vs. Bank - Wörter als Auslöser von Emotionen 
+_2nd Conference for Student Research_. Berlin, DE.
