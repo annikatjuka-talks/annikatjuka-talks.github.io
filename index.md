@@ -48,19 +48,33 @@ Back to [annikatjuka.com](https://annikatjuka.github.io/)
 
 # 2019
 
+
+<img style="border: 1px solid #000000" src="img/tjuka2019_bodypart_metaphors_ALT.png" width=" 320" height="200">
+
+Revealing cognitive patterns: A cross-linguistic study of body-part metaphors
+_13th International Conference of the Association for Linguistic Typology_. Pavia, IT.
+
+- <a href="slides/tjuka2019_bodypart_metaphors_ALT.pdf" target="_blank">Slides</a>
+
 <img style="border: 1px solid #000000" src="img/tjuka2019_tagging_modality_LAW.png" width=" 320" height="200">
+
+Tagging modality in Oceanic languages of Melanesia
+With Lena Wei\ss{}mann and Kilu von Prince.
+_13th Linguistic Annotation Workshop_. Florence, IT.
 
 - <a href="slides/tjuka2019_tagging_modality_LAW.pdf" target="_blank">Slides</a>
 
 
 <img style="border: 1px solid #000000" src="img/tjuka2019_habitual_textspans_LTCworkshop.png" width=" 320" height="200">
 
+Habitual aspect as a property of text spans
+With Lena Wei\ss{}mann and Kilu von Prince.
+_9th Language \& Technology Conference_. Pozna\'{n}, POL.
+
 - <a href="slides/tjuka2019_habitual_textspans_LTCworkshop.pdf" target="_blank">Slides</a>
 
 
-<img style="border: 1px solid #000000" src="img/tjuka2019_bodypart_metaphors_ALT.png" width=" 320" height="200">
 
-- <a href="slides/tjuka2019_bodypart_metaphors_ALT.pdf" target="_blank">Slides</a>
 
 # 2018
 
