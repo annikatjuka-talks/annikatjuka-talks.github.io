@@ -4,17 +4,17 @@ Back to [annikatjuka.com](https://annikatjuka.github.io/)
 
 # 2021
 
-<img style="border: 1px solid #000000" src="img/tjuka2021_body-object-colexification_ETT.png" width=" 325" height="200">
+<img style="border: 1px solid #000000" src="img/tjuka2021_body-object-colexification_ETT.png" width=" 320" height="200">
 
 - <a href="slides/tjuka2021_body-object-colexification_ETT.pdf" target="_blank">Slides</a>
 
 
-<img style="border: 1px solid #000000" src="img/tjuka2021-face-Vietnamese-CLIC.png" width=" 325" height="200">
+<img style="border: 1px solid #000000" src="img/tjuka2021-face-Vietnamese-CLIC.png" width=" 320" height="200">
 
 - <a href="slides/tjuka2021-face-Vietnamese-CLIC.pdf" target="_blank">Slides</a>
 
 
-<img style="border: 1px solid #000000" src="img/tjuka2021-body-colexifications-DUCOG.png" width=" 325" height="200">
+<img style="border: 1px solid #000000" src="img/tjuka2021-body-colexifications-DUCOG.png" width=" 320" height="200">
 
 - <a href="https://youtu.be/AdaagTy00M8" target="_blank">Video</a>
 
@@ -22,32 +22,40 @@ Back to [annikatjuka.com](https://annikatjuka.github.io/)
 
 # 2020
 
-<img style="border: 1px solid #000000" src="img/tjuka2020_similarity_STaPs.png" width=" 325" height="200">
+<img style="border: 1px solid #000000" src="img/tjuka2020_similarity_STaPs.png" width=" 320" height="200">
 
 - <a href="slides/tjuka2020_similarity_STaPs.pdf" target="_blank">Slides</a>
 
 
-<img style="border: 1px solid #000000" src="img/tjuka2020_similarity_DLCEmeeting.png" width=" 325" height="200">
+<img style="border: 1px solid #000000" src="img/tjuka2020_similarity_DLCEmeeting.png" width=" 320" height="200">
 
 - <a href="slides/tjuka2020_similarity_DLCEmeeting.pdf" target="_blank">Slides</a>
 
 
-<img style="border: 1px solid #000000" src="img/tjuka2020_frequencies_CogALex.png" width=" 325" height="200">
+<img style="border: 1px solid #000000" src="img/tjuka2020_frequencies_CogALex.png" width=" 320" height="200">
 
 - <a href="slides/tjuka2020_frequencies_CogALex.pdf" target="_blank">Slides</a>
 
 - <a href="https://youtu.be/AMqc9b4pY4g" target="_blank">Video</a>
 
 
-<img style="border: 1px solid #000000" src="img/tjuka2020_body_object_colexifications_WoW.png" width=" 325" height="200">
+<img style="border: 1px solid #000000" src="img/tjuka2020_body_object_colexifications_WoW.png" width=" 320" height="200">
 
 - <a href="slides/tjuka2020_body_object_colexifications_WoW.pdf" target="_blank">Slides</a>
 
+- <a href="https://youtu.be/ldQKwfyImYU" target="_blank">Video</a>
+
+
 # 2019
 
-<img style="border: 1px solid #000000" src="img/tjuka2019_tagging_modality_LAW.png" width=" 325" height="200">
+<img style="border: 1px solid #000000" src="img/tjuka2019_tagging_modality_LAW.png" width=" 320" height="200">
 
 - <a href="slides/tjuka2019_tagging_modality_LAW.pdf" target="_blank">Slides</a>
+
+
+<img style="border: 1px solid #000000" src="img/tjuka2019_habitual_textspans_LTCworkshop.png" width=" 320" height="200">
+
+- <a href="slides/tjuka2019_habitual_textspans_LTCworkshop.pdf" target="_blank">Slides</a>
 
 
 
