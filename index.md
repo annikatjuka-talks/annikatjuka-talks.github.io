@@ -8,7 +8,7 @@
 
 Comparing word properties across languages: A case study on ratings for arousal and valence
 
-<a href="https://wordsintheworld.ca/wow-conference/" target="_blank">2nd Words in the World (WoW) International Conference</a>. Canada, online.
+_<a href="https://wordsintheworld.ca/wow-conference/" target="_blank">2nd Words in the World (WoW) International Conference</a>_. Canada, online.
 
 - <a href="https://pad.gwdg.de/s/KLgI9TLrP" target="_blank">Slides</a>
 
