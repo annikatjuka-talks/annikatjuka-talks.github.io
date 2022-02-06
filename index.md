@@ -57,11 +57,12 @@ _13th International Conference of the Association for Linguistic Typology_. Pavi
 
 - <a href="slides/tjuka2019_bodypart_metaphors_ALT.pdf" target="_blank">Slides</a>
 
+
 <img style="border: 1px solid #000000" src="img/tjuka2019_tagging_modality_LAW.png" width=" 320" height="200">
 
 Tagging modality in Oceanic languages of Melanesia
 
-With Lena Wei\ss{}mann and Kilu von Prince
+With Lena Weißmann and Kilu von Prince
 
 _13th Linguistic Annotation Workshop_. Florence, IT.
 
@@ -72,9 +73,9 @@ _13th Linguistic Annotation Workshop_. Florence, IT.
 
 Habitual aspect as a property of text spans
 
-With Lena Wei\ss{}mann and Kilu von Prince
+With Lena Weißmann and Kilu von Prince
 
-_9th Language \& Technology Conference_. Pozna\'{n}, POL.
+_9th Language & Technology Conference_. Pozna\'{n}, POL.
 
 - <a href="slides/tjuka2019_habitual_textspans_LTCworkshop.pdf" target="_blank">Slides</a>
 
