@@ -21,7 +21,7 @@ _<a href="https://wordsintheworld.ca/wow-conference/" target="_blank">2nd Words 
 
 Patterns of body-object colexifications across languages
 
-<a href="https://www2.helsinki.fi/en/conferences/emerging-topics-in-typology" target="_blank">Emerging Topics in Typology. International Workshop Series</a>. University of Helsinki, online.
+_<a href="https://www2.helsinki.fi/en/conferences/emerging-topics-in-typology" target="_blank">Emerging Topics in Typology. International Workshop Series</a>_. University of Helsinki, online.
 
 - <a href="slides/tjuka2021_body-object-colexification_ETT.pdf" target="_blank">Slides</a>
 
@@ -32,7 +32,7 @@ Patterns of body-object colexifications across languages
 
 The face of the moon -- Body part extensions in Vietnamese
 
-<a href="https://scitope.com/clic-2020/" target="_blank">3rd Cultural Linguistics International Conference (CLIC-2021)</a>. Budapest, online.
+_<a href="https://scitope.com/clic-2020/" target="_blank">3rd Cultural Linguistics International Conference (CLIC-2021)</a>_. Budapest, online.
 
 - <a href="slides/tjuka2021-face-Vietnamese-CLIC.pdf" target="_blank">Slides</a>
 
@@ -56,7 +56,7 @@ _12th Dubrovnik Conference on Cognitive Science – Linguistic & Cognitive Found
 
 General patterns and language variation: Word frequencies across English, German, and Chinese
 
-<a href="https://sites.google.com/view/cogalex-2020" target="_blank">6th Cognitive Aspects of the Lexicon Workshop (CogALex)</a> at COLING 2020. Barcelona, online.
+_<a href="https://sites.google.com/view/cogalex-2020" target="_blank">6th Cognitive Aspects of the Lexicon Workshop (CogALex)</a>_ at COLING 2020. Barcelona, online.
 
 - <a href="slides/tjuka2020_frequencies_CogALex.pdf" target="_blank">Slides</a>
 
@@ -98,7 +98,7 @@ _Meeting of the Department of Linguistic and Cultural Evolution_. Max Planck Ins
 
 Revealing cognitive patterns: A cross-linguistic study of body-part metaphors
 
-<a href="https://sites.google.com/universitadipavia.it/alt2019/home" target="_blank">13th International Conference of the Association for Linguistic Typology</a>. Pavia, IT.
+_<a href="https://sites.google.com/universitadipavia.it/alt2019/home" target="_blank">13th International Conference of the Association for Linguistic Typology</a>_. Pavia, IT.
 
 - <a href="slides/tjuka2019_bodypart_metaphors_ALT.pdf" target="_blank">Slides</a>
 
@@ -111,7 +111,7 @@ Tagging modality in Oceanic languages of Melanesia
 
 With Lena Weißmann and Kilu von Prince
 
-<a href="https://sigann.github.io/LAW-XIII-2019/" target="_blank">13th Linguistic Annotation Workshop (LAW XIII)</a> at ACL 2019. Florence, IT.
+_<a href="https://sigann.github.io/LAW-XIII-2019/" target="_blank">13th Linguistic Annotation Workshop (LAW XIII)</a>_ at ACL 2019. Florence, IT.
 
 - <a href="slides/tjuka2019_tagging_modality_LAW.pdf" target="_blank">Slides</a>
 
@@ -124,9 +124,11 @@ Habitual aspect as a property of text spans
 
 With Lena Weißmann and Kilu von Prince
 
-<a href="http://ltc.amu.edu.pl/" target="_blank">9th Language & Technology Conference</a>. Poznań, POL.
+_<a href="http://ltc.amu.edu.pl/" target="_blank">9th Language & Technology Conference</a>_. Poznań, POL.
 
 - <a href="slides/tjuka2019_habitual_textspans_LTCworkshop.pdf" target="_blank">Slides</a>
+
+- <a href="https://www.researchgate.net/publication/333210593_Habitual_aspect_as_a_property_of_text_spans" target="_blank">Proceedings Article</a>
 
 
 # 2018
@@ -144,7 +146,7 @@ _3rd Conference for Student Research_. Bochum, DE.
 
 Can typological studies show us how the brain processes language? 
 
-<a href="https://5.meetup.junge-sprachwissenschaft.de/" target="_blank">5th Linguistik Meet-up Berlin-Potsdam</a>. Potsdam, DE.
+_<a href="https://5.meetup.junge-sprachwissenschaft.de/" target="_blank">5th Linguistik Meet-up Berlin-Potsdam</a>_. Potsdam, DE.
 
 - <a href="slides/tjuka2018_typological_studies_linguisticmeetup.pdf" target="_blank">Slides</a>
 
@@ -153,7 +155,7 @@ Can typological studies show us how the brain processes language?
 
 Don't judge from the outside: A deeper look into the Vietnamese tense system
 
-<a href="https://63.stuts.de/index.html" target="_blank">63rd Linguistics Student Conference (StuTS)</a>. Kiel, DE.
+_<a href="https://63.stuts.de/index.html" target="_blank">63rd Linguistics Student Conference (StuTS)</a>_. Kiel, DE.
 
 - <a href="slides/tjuka2018_vietnamese_tenselessnes_StutSconf.pdf" target="_blank">Slides</a>
 
@@ -162,7 +164,7 @@ Don't judge from the outside: A deeper look into the Vietnamese tense system
 
 Time and perspective in a supposedly tenseless language
 
-<a href="https://sites.google.com/site/twistconferenceforlinguistics/" target="_blank">12th T.W.I.S.T. Student Conference for Linguistics</a>. Leiden, NL.
+_<a href="https://sites.google.com/site/twistconferenceforlinguistics/" target="_blank">12th T.W.I.S.T. Student Conference for Linguistics</a>_. Leiden, NL.
 
 - <a href="slides/tjuka2018_vietnamese_tenslessnes_twistconf.pdf" target="_blank">Slides</a>
 
