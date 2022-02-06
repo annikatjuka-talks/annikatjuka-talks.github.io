@@ -1,4 +1,4 @@
-A list of all my conference talks.
+*A list of all my conference talks.*
 
 Back to [annikatjuka.com](https://annikatjuka.github.io/)
 
