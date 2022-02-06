@@ -45,9 +45,9 @@ Meanings of body part terms: Cross-linguistic colexifications between body parts
 
 _12th Dubrovnik Conference on Cognitive Science – Linguistic & Cognitive Foundations of Meaning (DUCOG2021)_. Dubrovnik, online.
 
-- <a href="https://youtu.be/AdaagTy00M8" target="_blank">Video</a>
-
 - <a href="slides/tjuka2021-body-colexifications-DUCOG.pdf" target="_blank">Slides</a>
+
+- <a href="https://youtu.be/AdaagTy00M8" target="_blank">Video</a>
 
 
 # 2020
