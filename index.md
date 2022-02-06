@@ -58,9 +58,27 @@ Back to [annikatjuka.com](https://annikatjuka.github.io/)
 - <a href="slides/tjuka2019_habitual_textspans_LTCworkshop.pdf" target="_blank">Slides</a>
 
 
+<img style="border: 1px solid #000000" src="img/tjuka2019_bodypart_metaphors_ALT.png" width=" 320" height="200">
+
+- <a href="slides/tjuka2019_bodypart_metaphors_ALT.pdf" target="_blank">Slides</a>
+
+# 2018
+
+<img style="border: 1px solid #000000" src="img/tjuka2018_vietnamese_tenslessnes_twistconf.png" width=" 320" height="200">
+
+- <a href="slides/tjuka2018_vietnamese_tenslessnes_twistconf.pdf" target="_blank">Slides</a>
 
 
+<img style="border: 1px solid #000000" src="img/tjuka2018_vietnamese_tenselessnes_StutSconf.png" width=" 320" height="200">
+
+- <a href="slides/tjuka2018_vietnamese_tenselessnes_StutSconf.pdf" target="_blank">Slides</a>
 
 
+<img style="border: 1px solid #000000" src="img/tjuka2018_typological_studies_linguisticmeetup.png" width=" 320" height="200">
+
+- <a href="slides/tjuka2018_typological_studies_linguisticmeetup.pdf" target="_blank">Slides</a>
 
 
+<img style="border: 1px solid #000000" src="img/tjuka2018_fieldwork_elicitation_studentconf.png" width=" 320" height="200">
+
+- <a href="slides/tjuka2018_fieldwork_elicitation_studentconf.pdf" target="_blank">Slides</a>
