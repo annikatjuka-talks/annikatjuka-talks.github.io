@@ -1,8 +1,19 @@
-A list of all my talks including recorded lectures.
+A list of all my conference talks.
 
 Back to [annikatjuka.com](https://annikatjuka.github.io/)
 
 # 2021
+
+<img style="border: 1px solid #000000" src="img/tjuka2021_NoRaRe_WoW.jpeg" width=" 320" height="200">
+
+Comparing word properties across languages: A case study on ratings for arousal and valence
+
+_2nd Words in the World (WoW) International Conference_. Canada, online.
+
+- <a href="https://pad.gwdg.de/s/KLgI9TLrP" target="_blank">Slides</a>
+
+- <a href="https://youtu.be/3yQj0Jtmszs" target="_blank">Video</a>
+
 
 <img style="border: 1px solid #000000" src="img/tjuka2021_body-object-colexification_ETT.png" width=" 320" height="200">
 
