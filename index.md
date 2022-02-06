@@ -64,21 +64,28 @@ Back to [annikatjuka.com](https://annikatjuka.github.io/)
 
 # 2018
 
-<img style="border: 1px solid #000000" src="img/tjuka2018_vietnamese_tenslessnes_twistconf.png" width=" 320" height="200">
+<img style="border: 1px solid #000000" src="img/tjuka2018_fieldwork_elicitation_studentconf.png" width=" 320" height="200">
 
-- <a href="slides/tjuka2018_vietnamese_tenslessnes_twistconf.pdf" target="_blank">Slides</a>
+_Elicitation in linguistic fieldwork -- or how to capture a speaker's view of the world_ at 3rd Conference for Student Research. Bochum, DE.
 
-
-<img style="border: 1px solid #000000" src="img/tjuka2018_vietnamese_tenselessnes_StutSconf.png" width=" 320" height="200">
-
-- <a href="slides/tjuka2018_vietnamese_tenselessnes_StutSconf.pdf" target="_blank">Slides</a>
+- <a href="slides/tjuka2018_fieldwork_elicitation_studentconf.pdf" target="_blank">Slides</a>
 
 
 <img style="border: 1px solid #000000" src="img/tjuka2018_typological_studies_linguisticmeetup.png" width=" 320" height="200">
 
 - <a href="slides/tjuka2018_typological_studies_linguisticmeetup.pdf" target="_blank">Slides</a>
 
+_Can typological studies show us how the brain processes language?_ at 5th Linguistik Meet-up Berlin-Potsdam. Potsdam, DE.
 
-<img style="border: 1px solid #000000" src="img/tjuka2018_fieldwork_elicitation_studentconf.png" width=" 320" height="200">
+<img style="border: 1px solid #000000" src="img/tjuka2018_vietnamese_tenselessnes_StutSconf.png" width=" 320" height="200">
 
-- <a href="slides/tjuka2018_fieldwork_elicitation_studentconf.pdf" target="_blank">Slides</a>
+_Don't judge from the outside: A deeper look into the Vietnamese tense system_ at 63rd Linguistics Student Conference (StuTS). Kiel, DE.
+
+- <a href="slides/tjuka2018_vietnamese_tenselessnes_StutSconf.pdf" target="_blank">Slides</a>
+
+
+<img style="border: 1px solid #000000" src="img/tjuka2018_vietnamese_tenslessnes_twistconf.png" width=" 320" height="200">
+
+_Time and perspective in a supposedly tenseless language_ at 12th T.W.I.S.T. Student Conference for Linguistics. Leiden, NL.
+
+- <a href="slides/tjuka2018_vietnamese_tenslessnes_twistconf.pdf" target="_blank">Slides</a>
