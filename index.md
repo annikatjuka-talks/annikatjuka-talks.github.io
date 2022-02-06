@@ -52,6 +52,7 @@ Back to [annikatjuka.com](https://annikatjuka.github.io/)
 <img style="border: 1px solid #000000" src="img/tjuka2019_bodypart_metaphors_ALT.png" width=" 320" height="200">
 
 Revealing cognitive patterns: A cross-linguistic study of body-part metaphors
+
 _13th International Conference of the Association for Linguistic Typology_. Pavia, IT.
 
 - <a href="slides/tjuka2019_bodypart_metaphors_ALT.pdf" target="_blank">Slides</a>
@@ -59,7 +60,9 @@ _13th International Conference of the Association for Linguistic Typology_. Pavi
 <img style="border: 1px solid #000000" src="img/tjuka2019_tagging_modality_LAW.png" width=" 320" height="200">
 
 Tagging modality in Oceanic languages of Melanesia
-With Lena Wei\ss{}mann and Kilu von Prince.
+
+With Lena Wei\ss{}mann and Kilu von Prince
+
 _13th Linguistic Annotation Workshop_. Florence, IT.
 
 - <a href="slides/tjuka2019_tagging_modality_LAW.pdf" target="_blank">Slides</a>
@@ -68,12 +71,12 @@ _13th Linguistic Annotation Workshop_. Florence, IT.
 <img style="border: 1px solid #000000" src="img/tjuka2019_habitual_textspans_LTCworkshop.png" width=" 320" height="200">
 
 Habitual aspect as a property of text spans
-With Lena Wei\ss{}mann and Kilu von Prince.
+
+With Lena Wei\ss{}mann and Kilu von Prince
+
 _9th Language \& Technology Conference_. Pozna\'{n}, POL.
 
 - <a href="slides/tjuka2019_habitual_textspans_LTCworkshop.pdf" target="_blank">Slides</a>
-
-
 
 
 # 2018
@@ -81,6 +84,7 @@ _9th Language \& Technology Conference_. Pozna\'{n}, POL.
 <img style="border: 1px solid #000000" src="img/tjuka2018_fieldwork_elicitation_studentconf.png" width=" 320" height="200">
 
 Elicitation in linguistic fieldwork -- or how to capture a speaker's view of the world
+
 _3rd Conference for Student Research_. Bochum, DE.
 
 - <a href="slides/tjuka2018_fieldwork_elicitation_studentconf.pdf" target="_blank">Slides</a>
@@ -89,6 +93,7 @@ _3rd Conference for Student Research_. Bochum, DE.
 <img style="border: 1px solid #000000" src="img/tjuka2018_typological_studies_linguisticmeetup.png" width=" 320" height="200">
 
 Can typological studies show us how the brain processes language? 
+
 _5th Linguistik Meet-up Berlin-Potsdam_. Potsdam, DE.
 
 - <a href="slides/tjuka2018_typological_studies_linguisticmeetup.pdf" target="_blank">Slides</a>
@@ -96,6 +101,7 @@ _5th Linguistik Meet-up Berlin-Potsdam_. Potsdam, DE.
 <img style="border: 1px solid #000000" src="img/tjuka2018_vietnamese_tenselessnes_StutSconf.png" width=" 320" height="200">
 
 Don't judge from the outside: A deeper look into the Vietnamese tense system
+
 _63rd Linguistics Student Conference (StuTS)_. Kiel, DE.
 
 - <a href="slides/tjuka2018_vietnamese_tenselessnes_StutSconf.pdf" target="_blank">Slides</a>
@@ -104,6 +110,7 @@ _63rd Linguistics Student Conference (StuTS)_. Kiel, DE.
 <img style="border: 1px solid #000000" src="img/tjuka2018_vietnamese_tenslessnes_twistconf.png" width=" 320" height="200">
 
 Time and perspective in a supposedly tenseless language
+
 _12th T.W.I.S.T. Student Conference for Linguistics_. Leiden, NL.
 
 - <a href="slides/tjuka2018_vietnamese_tenslessnes_twistconf.pdf" target="_blank">Slides</a>
@@ -111,4 +118,5 @@ _12th T.W.I.S.T. Student Conference for Linguistics_. Leiden, NL.
 # 2017
 
 Panda vs. Bank - Wörter als Auslöser von Emotionen 
+
 _2nd Conference for Student Research_. Berlin, DE.
