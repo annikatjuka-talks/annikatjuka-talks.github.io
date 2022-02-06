@@ -1,1 +1,1 @@
-This repository creates my personal bookshelf with GitHub pages: https://annikatjuka-bookshelf.github.io/
+This repository creates a webpaeg with a list of my talks and recorded lectures: https://annikatjuka-talks.github.io/
