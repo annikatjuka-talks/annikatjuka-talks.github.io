@@ -43,6 +43,13 @@ Back to [annikatjuka.com](https://annikatjuka.github.io/)
 
 - <a href="slides/tjuka2020_body_object_colexifications_WoW.pdf" target="_blank">Slides</a>
 
+# 2019
+
+<img style="border: 1px solid #000000" src="img/tjuka2019_tagging_modality_LAW.png" width=" 325" height="200">
+
+- <a href="slides/tjuka2019_tagging_modality_LAW.pdf" target="_blank">Slides</a>
+
+
 
 
 
