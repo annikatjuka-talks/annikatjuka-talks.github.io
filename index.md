@@ -6,48 +6,76 @@ Back to [annikatjuka.com](https://annikatjuka.github.io/)
 
 <img style="border: 1px solid #000000" src="img/tjuka2021_body-object-colexification_ETT.png" width=" 320" height="200">
 
+Patterns of body-object colexifications across languages
+
+_Emerging Topics in Typology. International Workshop Series_. University of Helsinki, online.
+
 - <a href="slides/tjuka2021_body-object-colexification_ETT.pdf" target="_blank">Slides</a>
 
 
 <img style="border: 1px solid #000000" src="img/tjuka2021-face-Vietnamese-CLIC.png" width=" 320" height="200">
+
+The face of the moon -- Body part extensions in Vietnamese
+
+_3rd Cultural Linguistics International Conference (CLIC-2021)_. Budapest, online.
 
 - <a href="slides/tjuka2021-face-Vietnamese-CLIC.pdf" target="_blank">Slides</a>
 
 
 <img style="border: 1px solid #000000" src="img/tjuka2021-body-colexifications-DUCOG.png" width=" 320" height="200">
 
+Meanings of body part terms: Cross-linguistic colexifications between body parts and objects
+
+_12th Dubrovnik Conference on Cognitive Science – Linguistic & Cognitive Foundations of Meaning (DUCOG2021)_. Dubrovnik, online.
+
 - <a href="https://youtu.be/AdaagTy00M8" target="_blank">Video</a>
 
 - <a href="slides/tjuka2021-body-colexifications-DUCOG.pdf" target="_blank">Slides</a>
 
+
 # 2020
-
-<img style="border: 1px solid #000000" src="img/tjuka2020_similarity_STaPs.png" width=" 320" height="200">
-
-- <a href="slides/tjuka2020_similarity_STaPs.pdf" target="_blank">Slides</a>
-
-
-<img style="border: 1px solid #000000" src="img/tjuka2020_similarity_DLCEmeeting.png" width=" 320" height="200">
-
-- <a href="slides/tjuka2020_similarity_DLCEmeeting.pdf" target="_blank">Slides</a>
-
 
 <img style="border: 1px solid #000000" src="img/tjuka2020_frequencies_CogALex.png" width=" 320" height="200">
 
 - <a href="slides/tjuka2020_frequencies_CogALex.pdf" target="_blank">Slides</a>
+
+General patterns and language variation: Word frequencies across English, German, and Chinese
+
+_6th Cognitive Aspects of the Lexicon Workshop (CogALex) at COLING 2020_. Barcelona, online.
 
 - <a href="https://youtu.be/AMqc9b4pY4g" target="_blank">Video</a>
 
 
 <img style="border: 1px solid #000000" src="img/tjuka2020_body_object_colexifications_WoW.png" width=" 320" height="200">
 
+The eye/ear of the needle – Cross-linguistic differences in body part extensions
+
+_1st Words in the World (WoW) International Conference_. Canada, online.
+
 - <a href="slides/tjuka2020_body_object_colexifications_WoW.pdf" target="_blank">Slides</a>
 
 - <a href="https://youtu.be/ldQKwfyImYU" target="_blank">Video</a>
 
 
-# 2019
+<img style="border: 1px solid #000000" src="img/tjuka2020_similarity_STaPs.png" width=" 320" height="200">
 
+Defining the obvious: How to measure similarity?
+
+_16th Sprachwissenschaftliche Tagung für Promotionsstudierende_. Vienna, online.
+
+- <a href="slides/tjuka2020_similarity_STaPs.pdf" target="_blank">Slides</a>
+
+
+<img style="border: 1px solid #000000" src="img/tjuka2020_similarity_DLCEmeeting.png" width=" 320" height="200">
+
+Similarity as the basis for meaning extensions
+
+_Meeting of the Department of Linguistic and Cultural Evolution_. Max Planck Institute for the Science of Human History, Jena, online.
+
+- <a href="slides/tjuka2020_similarity_DLCEmeeting.pdf" target="_blank">Slides</a>
+
+
+# 2019
 
 <img style="border: 1px solid #000000" src="img/tjuka2019_bodypart_metaphors_ALT.png" width=" 320" height="200">
 
