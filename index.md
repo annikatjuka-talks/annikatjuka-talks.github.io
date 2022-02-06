@@ -48,11 +48,11 @@ _12th Dubrovnik Conference on Cognitive Science – Linguistic & Cognitive Found
 
 <img style="border: 1px solid #000000" src="img/tjuka2020_frequencies_CogALex.png" width=" 320" height="200">
 
-- <a href="slides/tjuka2020_frequencies_CogALex.pdf" target="_blank">Slides</a>
-
 General patterns and language variation: Word frequencies across English, German, and Chinese
 
 _6th Cognitive Aspects of the Lexicon Workshop (CogALex) at COLING 2020_. Barcelona, online.
+
+- <a href="slides/tjuka2020_frequencies_CogALex.pdf" target="_blank">Slides</a>
 
 - <a href="https://youtu.be/AMqc9b4pY4g" target="_blank">Video</a>
 
@@ -137,6 +137,7 @@ Can typological studies show us how the brain processes language?
 _5th Linguistik Meet-up Berlin-Potsdam_. Potsdam, DE.
 
 - <a href="slides/tjuka2018_typological_studies_linguisticmeetup.pdf" target="_blank">Slides</a>
+
 
 <img style="border: 1px solid #000000" src="img/tjuka2018_vietnamese_tenselessnes_StutSconf.png" width=" 320" height="200">
 
