@@ -153,6 +153,15 @@ _<a href="http://ltc.amu.edu.pl/" target="_blank">9th Language & Technology Conf
 - <a href="https://www.researchgate.net/publication/333210593_Habitual_aspect_as_a_property_of_text_spans" target="_blank">Proceedings Article</a> 
 
 
+<img style="border: 1px solid #000000" src="img/tjuka2019_methaphor_Oxford_poster.png" width=" 250" height="310">
+
+_The heel of the bread & the tongue of the sea_: Body-part metaphors in object and landscape terms
+
+_<a href="https://www.creativeml.ox.ac.uk/creative-power-metaphor-multimedia-output/index.html" target="_blank">The Creative Power of Metaphor Conference</a>_. Oxford, UK.
+
+- <a href="slides/tjuka2019_methaphor_Oxford_poster.pdf" target="_blank">Poster</a>
+
+
 # 2018
 
 <img style="border: 1px solid #000000" src="img/tjuka2018_fieldwork_elicitation_studentconf.png" width=" 310" height="200">
