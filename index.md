@@ -105,6 +105,15 @@ _<a href="https://sites.google.com/universitadipavia.it/alt2019/home" target="_b
 - <a href="https://drive.google.com/file/d/1Mos92cIc_9rFSXk7jfFuX-lDAgrYcROC/view" target="_blank">Abstract (page 222)</a>
 
 
+<img style="border: 1px solid #000000" src="img/tjuka2019_bodymetaphors_SLE.png" width=" 250" height="310">
+
+A cross-linguistic study of body-part metaphors and their cognitive basis
+
+_<a href="https://societaslinguistica.eu/meetings/" target="_blank">52th Annual Meeting of the Societas Linguistica Europaea</a>_. Leipzig, DE.
+
+- <a href="slides/tjuka2019_bodymetaphors_SLE.pdf" target="_blank">Poster</a>
+
+
 <img style="border: 1px solid #000000" src="img/tjuka2019_tagging_modality_LAW.png" width=" 310" height="200">
 
 Tagging modality in Oceanic languages of Melanesia
@@ -116,6 +125,17 @@ _<a href="https://sigann.github.io/LAW-XIII-2019/" target="_blank">13th Linguist
 - <a href="slides/tjuka2019_tagging_modality_LAW.pdf" target="_blank">Slides</a>
 
 - <a href="https://sigann.github.io/LAW-XIII-2019/pdf/W19-4008.pdf" target="_blank">Proceedings Article</a>
+
+
+<img style="border: 1px solid #000000" src="img/tjuka2019_Vietnamese_focus_poster.png" width=" 250" height="310">
+
+Shirts, scarves, or socks: Remembering focus alternatives in Vietnamese
+
+With Huong Thi Thu Nguyen and Katharina Spalek
+
+_<a href="https://www.hse.ru/en/neuroling/summer_school_2019/" target="_blank">Neurolinguistics Summer School</a>_. Moscow, RU.
+
+- <a href="slides/tjuka2019_Vietnamese_focus_poster.pdf" target="_blank">Poster</a>
 
 
 <img style="border: 1px solid #000000" src="img/tjuka2019_habitual_textspans_LTCworkshop.png" width=" 310" height="200">
