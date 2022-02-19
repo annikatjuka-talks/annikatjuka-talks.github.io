@@ -148,7 +148,9 @@ _<a href="http://ltc.amu.edu.pl/" target="_blank">9th Language & Technology Conf
 
 - <a href="slides/tjuka2019_habitual_textspans_LTCworkshop.pdf" target="_blank">Slides</a>
 
-- <a href="https://www.researchgate.net/publication/333210593_Habitual_aspect_as_a_property_of_text_spans" target="_blank">Proceedings Article</a>
+- <a href="slides/tjuka2019_habitual_textspans_LTCworkshop_poster.pdf" target="_blank">Poster</a>
+
+- <a href="https://www.researchgate.net/publication/333210593_Habitual_aspect_as_a_property_of_text_spans" target="_blank">Proceedings Article</a> 
 
 
 # 2018
