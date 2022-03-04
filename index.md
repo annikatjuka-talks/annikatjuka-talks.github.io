@@ -15,7 +15,7 @@ _<a href="https://www.uni-erfurt.de/en/philosophische-fakultaet/seminare-profess
 
 # 2021
 
-<img style="border: 1px solid #000000" src="img/tjuka2021_NoRaRe_WoW.jpeg" width=" 310" height="200">
+<a href="https://pad.gwdg.de/s/KLgI9TLrP" target="_blank"><img style="border: 1px solid #000000" src="img/tjuka2021_NoRaRe_WoW.jpeg" width=" 310" height="200"></a>
 
 Comparing word properties across languages: A case study on ratings for arousal and valence
 
@@ -28,7 +28,7 @@ _<a href="https://wordsintheworld.ca/wow-conference/" target="_blank">2nd Words 
 - <a href="https://wordsintheworld.ca/wp-content/uploads/2021/11/WOW-Abstract-Book-Updated-Nov25.pdf" target="_blank">Abstract (PDF page 136)</a>
 
 
-<img style="border: 1px solid #000000" src="img/tjuka2021_body-object-colexification_ETT.png" width=" 310" height="200">
+<a href="slides/tjuka2021_body-object-colexification_ETT.pdf" target="_blank"><img style="border: 1px solid #000000" src="img/tjuka2021_body-object-colexification_ETT.png" width=" 310" height="200"></a>
 
 Patterns of body-object colexifications across languages
 
@@ -39,7 +39,7 @@ _<a href="https://www2.helsinki.fi/en/conferences/emerging-topics-in-typology" t
 - <a href="https://jottacloud.com/s/135f0f29b8e505b4e5ab91988b9ce4a17f0" target="_blank">Abstract</a>
 
 
-<img style="border: 1px solid #000000" src="img/tjuka2021-face-Vietnamese-CLIC.png" width=" 310" height="200">
+<a href="slides/tjuka2021-face-Vietnamese-CLIC.pdf" target="_blank"><img style="border: 1px solid #000000" src="img/tjuka2021-face-Vietnamese-CLIC.png" width=" 310" height="200"></a>
 
 The face of the moon -- Body part extensions in Vietnamese
 
@@ -50,7 +50,7 @@ _<a href="https://scitope.com/clic-2020/" target="_blank">3rd Cultural Linguisti
 - <a href="https://drive.google.com/file/d/15kJzFL3_vEvYzkBRdj8L2CxHCovF-v7Q/view" target="_blank">Abstract (page 121)</a>
 
 
-<img style="border: 1px solid #000000" src="img/tjuka2021-body-colexifications-DUCOG.png" width=" 310" height="200">
+<a href="slides/tjuka2021-body-colexifications-DUCOG.pdf" target="_blank"><img style="border: 1px solid #000000" src="img/tjuka2021-body-colexifications-DUCOG.png" width=" 310" height="200"></a>
 
 Meanings of body part terms: Cross-linguistic colexifications between body parts and objects
 
