@@ -4,7 +4,7 @@
 
 # 2022
 
-<img style="border: 1px solid #000000" src="img/tjuka2022-body-object-colexification-DGKL.jpg" width=" 310" height="200">
+<img style="border: 1px solid #000000" src="img/tjuka2022-body-object-colexification-DGKL.jpg" width=" 310" height="200" href="slides/tjuka2022-body-object-colexification-DGKL.pdf" target="_blank">
 
 The face of the sky – Body-part extensions from a cross-linguistic perspective
 
