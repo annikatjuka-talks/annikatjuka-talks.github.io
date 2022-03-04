@@ -2,6 +2,17 @@
 
 [Back to annikatjuka.com](https://annikatjuka.github.io/)
 
+# 2022
+
+<img style="border: 1px solid #000000" src="img/tjuka2022-body-object-colexification-DGKL.jpeg" width=" 310" height="200">
+
+The face of the sky – Body-part extensions from a cross-linguistic perspective
+
+_<a href="https://www.uni-erfurt.de/en/philosophische-fakultaet/seminare-professuren/sprachwissenschaft/research/9th-international-conference-of-the-german-cognitive-linguistics-association-dgkl-gcla-9" target="_blank">9th International Conference of the German Cognitive Linguistics Association</a>_. Erfurt, online.
+
+- <a href="slides/tjuka2022-body-object-colexification-DGKL.pdf" target="_blank">Slides</a>
+
+
 # 2021
 
 <img style="border: 1px solid #000000" src="img/tjuka2021_NoRaRe_WoW.jpeg" width=" 310" height="200">
