@@ -12,6 +12,8 @@ _<a href="https://www.uni-erfurt.de/en/philosophische-fakultaet/seminare-profess
 
 - <a href="slides/tjuka2022-body-object-colexification-DGKL.pdf" target="_blank">Slides
 
+- <a href="https://www.uni-erfurt.de/fileadmin/fakultaet/philosophische/Sprachwissenschaft/BoA_DGKL_GCLA-9_2022-02-23.pdf" target="_blank">Abstract (PDF page 102)</a>
+
 
 # 2021
 
