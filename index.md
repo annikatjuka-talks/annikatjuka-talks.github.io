@@ -4,6 +4,15 @@
 
 # 2022
 
+<a href="slides/tjuka2022_body_object_semshifts_school.pdf" target="_blank"><img style="border: 1px solid #000000" src="img/tjuka2022_body_object_semshifts_school.png" width=" 310" height="200"></a>
+
+Using body part terms for objects across languages: Frequency, patterns and analogies
+
+_<a href="https://semanticshifts.sciencesconf.org/" target="_blank">Semantic Shifts: From lexicon to grammar. Diachronic and typological perspectives</a>_. Fréjus, FR.
+
+- <a href="slides/tjuka2022-body-object-colexification-DGKL.pdf" target="_blank">Slides
+
+
 <img style="border: 1px solid #000000" src="img/tjuka2022-NoRaRe-KogWis_poster.png" width=" 250" height="310">
 
 Comparing sensory properties of words between English, Dutch, and Italian
