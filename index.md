@@ -4,6 +4,15 @@
 
 # 2022
 
+<a href="slides/tjuka2022_CSSS_DLCE_DepartmentMeeting.pdf" target="_blank"><img style="border: 1px solid #000000" src="img/tjuka2022_CSSS_DLCE_DepartmentMeeting.png" width=" 310" height="200"></a>
+
+Back to school - Experiences and insights from the Complex Systems Summer School
+
+_Meeting of the Department of Linguistic and Cultural Linguistics_. Leipzig, DE.
+
+- <a href="slides/tjuka2022_CSSS_DLCE_DepartmentMeeting.pdf" target="_blank">Slides
+  
+  
 <a href="slides/tjuka2022_body_object_semshifts_school.pdf" target="_blank"><img style="border: 1px solid #000000" src="img/tjuka2022_body_object_semshifts_school.png" width=" 310" height="200"></a>
 
 Using body part terms for objects across languages: Frequency, patterns and analogies
