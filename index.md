@@ -19,7 +19,7 @@ Using body part terms for objects across languages: Frequency, patterns and anal
 
 _<a href="https://semanticshifts.sciencesconf.org/" target="_blank">Semantic Shifts Summer School: From lexicon to grammar. Diachronic and typological perspectives</a>_. Fréjus, FR.
 
-- <a href="slides/tjuka2022-body-object-colexification-DGKL.pdf" target="_blank">Slides
+- <a href="slides/tjuka2022_body_object_semshifts_school.pdf" target="_blank">Slides
 
 
 <img style="border: 1px solid #000000" src="img/tjuka2022-NoRaRe-KogWis_poster.png" width=" 250" height="310">
