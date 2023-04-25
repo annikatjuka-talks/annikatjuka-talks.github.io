@@ -2,6 +2,14 @@
 
 [Back to annikatjuka.com](https://annikatjuka.github.io/)
 
+# 2023
+
+If a car had feet, where would they be? Using the body as an analogy to name object parts
+
+_<a href="https://lsf.hhu.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=237863&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung" target="_blank">Current Topics in General Linguistics - Research Colloquium at Heinrich Heine University</a>_. Düsseldorf, Germany.
+
+- <a href="slides/tjuka2023-body-object-colexification-HHU-Colloquium.pdf" target="_blank">Slides
+
 # 2022
 
 <a href="slides/tjuka2022_CSSS_DLCE_DepartmentMeeting.pdf" target="_blank"><img style="border: 1px solid #000000" src="img/tjuka2022_CSSS_DLCE_DepartmentMeeting.png" width=" 310" height="200"></a>
