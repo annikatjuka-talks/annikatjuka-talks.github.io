@@ -4,6 +4,14 @@
 
 # 2023
 
+<a href="slides/tjuka2023-body-object-partialcolexification-ICLC16.pdf" target="_blank"><img style="border: 1px solid #000000" src="img/tjuka2023-body-object-partialcolexification-ICLC16.png" width=" 310" height="200"></a>
+
+The body as a source for object names: A study of partial colexifications across languages
+
+_<a href="https://iclc16.phil.hhu.de/" target="_blank">16th International Cognitive Linguistics Conference</a>_. Düsseldorf, Germany.
+
+- <a href="slides/tjuka2023-body-object-partialcolexification-ICLC16.pdf" target="_blank">Slides
+
 <a href="slides/tjuka2023-body-object-colexification-HHU-Colloquium.pdf" target="_blank"><img style="border: 1px solid #000000" src="img/tjuka2023-body-object-colexification-HHU-Colloquium.png" width=" 310" height="200"></a>
 
 If a car had feet, where would they be? Using the body as an analogy to name object parts
