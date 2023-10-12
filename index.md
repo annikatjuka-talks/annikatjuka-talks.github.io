@@ -4,13 +4,13 @@
 
 # 2023
 
-<a href="slides/tjuka2023_Sprachdiversität_ScienceFestival.pdf" target="_blank"><img style="border: 1px solid #000000" src="img/tjuka2023_Sprachdiversität_ScienceFestival.png" width=" 310" height="200"></a>
+<a href="slides/tjuka2023_Sprachdiversitaet_ScienceFestival.pdf" target="_blank"><img style="border: 1px solid #000000" src="img/tjuka2023_Sprachdiversitaet_ScienceFestival.png" width=" 310" height="200"></a>
 
 Was wäre, wenn du jede Sprache auf der Welt sprechen könntest?
 
 _<a href="https://www.eva.mpg.de/events/" target="_blank">Quantum Entanglement - Science and Music Open Air</a>_. Leipzig, Germany.
 
-- <a href="slides/tjuka2023_Sprachdiversität_ScienceFestival.pdf" target="_blank">Slides
+- <a href="slides/tjuka2023_Sprachdiversitaet_ScienceFestival.pdf" target="_blank">Slides
 
 
 <a href="slides/tjuka2023-body-object-partialcolexification-ICLC16.pdf" target="_blank"><img style="border: 1px solid #000000" src="img/tjuka2023-body-object-partialcolexification-ICLC16.png" width=" 310" height="200"></a>
