@@ -4,6 +4,15 @@
 
 # 2023
 
+<a href="slides/tjuka2023_Networks_CLDF.pdf" target="_blank"><img style="border: 1px solid #000000" src="img/tjuka2023_Networks_CLDF.png" width=" 310" height="200"></a>
+
+Representing semantic networks in Concepticon
+
+_<a href="https://www.eva.mpg.de/linguistic-and-cultural-evolution/events/2023-cldf-workshop/" target="_blank">Workshop on Cross-Linguistic Data Formats 2023 - Graphs and Text</a>_. Leipzig, Germany.
+
+- <a href="slides/tjuka2023_Networks_CLDF.pdf" target="_blank">Slides
+
+
 <a href="slides/tjuka2023_Sprachdiversitaet_ScienceFestival.pdf" target="_blank"><img style="border: 1px solid #000000" src="img/tjuka2023_Sprachdiversitaet_ScienceFestival.png" width=" 310" height="200"></a>
 
 Was wäre, wenn du jede Sprache auf der Welt sprechen könntest?
