@@ -2,6 +2,16 @@
 
 [Back to annikatjuka.com](https://annikatjuka.github.io/)
 
+
+# 2024
+
+<a href="slides/tjuka2024_Defense.pdf" target="_blank"><img style="border: 1px solid #000000" src="img/tjuka2023_Networks_CLDF.png" width=" 310" height="200"></a>
+
+Language Variation in Word Meanings
+
+- <a href="slides/tjuka2024_Defense.pdf" target="_blank">Slides
+
+	
 # 2023
 
 <a href="slides/tjuka2023_Networks_CLDF.pdf" target="_blank"><img style="border: 1px solid #000000" src="img/tjuka2023_Networks_CLDF.png" width=" 310" height="200"></a>
