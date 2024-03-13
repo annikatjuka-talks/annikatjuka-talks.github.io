@@ -11,6 +11,13 @@ Language Variation in Word Meanings
 
 - <a href="slides/tjuka2024_Defense.pdf" target="_blank">Slides
 
+
+<a href="slides/tjuka2024_3MTC.pdf" target="_blank"><img style="border: 1px solid #000000" src="img/tjuka2024_3MTC.png" width=" 310" height="200"></a>
+
+Language Variation in Word Meanings
+
+- <a href="slides/tjuka2024_3MTC.pdf" target="_blank">Slide
+
 	
 # 2023
 
