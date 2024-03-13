@@ -14,7 +14,10 @@ Language Variation in Word Meanings
 
 <a href="slides/tjuka2024_3MTC.pdf" target="_blank"><img style="border: 1px solid #000000" src="img/tjuka2024_3MTC.png" width=" 310" height="200"></a>
 
-Language Variation in Word Meanings
+One Body, Many Words: Linguistic Diversity as a Window into the Mind
+
+_<a href="https://www.uni-jena.de/en/3mt" target="_blank">Three Minute Thesis Competition</a>_. Jena, Germany.
+
 
 - <a href="slides/tjuka2024_3MTC.pdf" target="_blank">Slide
 
