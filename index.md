@@ -9,7 +9,7 @@
 
 Directional Tendencies in Object Naming
 
-_<a>Graduate Colloquium at Chair of Multilingual Computational Linguistics</a>_. Passau, Germany.
+_Graduate Colloquium at Chair of Multilingual Computational Linguistics_. Passau, Germany.
 
 - <a href="slides/tjuka2024_Directional_Tendencies.pdf" target="_blank">Slides
 
