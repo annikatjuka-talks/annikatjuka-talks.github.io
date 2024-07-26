@@ -5,6 +5,14 @@
 
 # 2024
 
+<a href="slides/tjuka2024_Body_Colexi.pdf" target="_blank"><img style="border: 1px solid #000000" src="img/tjuka2024_Body_Colexi.png" width=" 250" height="310"></a>
+
+Cross-Cultural Insights into Body Part Naming
+
+_COGSCI 2024_. Rotterdam, Netherlands.
+
+- <a href="slides/tjuka2024_Body_Colexi.pdf" target="_blank">Slides
+
 <a href="slides/tjuka2024_Directional_Tendencies.pdf" target="_blank"><img style="border: 1px solid #000000" src="img/tjuka2024_Directional_Tendencies.png" width=" 310" height="200"></a>
 
 Directional Tendencies in Object Naming
