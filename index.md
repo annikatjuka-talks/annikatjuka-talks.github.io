@@ -9,7 +9,7 @@
 
 Cross-Cultural Insights into Body Part Naming
 
-_COGSCI 2024_. Rotterdam, Netherlands.
+_<a href="https://cognitivesciencesociety.org/cogsci-2024/" target="_blank">COGSCI 2024</a>_. Rotterdam, Netherlands.
 
 - <a href="slides/tjuka2024_Body_Colexi.pdf" target="_blank">Slides
 
