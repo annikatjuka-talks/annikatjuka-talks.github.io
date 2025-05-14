@@ -4,7 +4,7 @@
 
 # 2025
 
-<a href="https://div-ling.org/wp-content/uploads/2025/05/Tjuka2025-BodyObjectAnimal-LingDiv-Talk.pdf" target="_blank"><img style="border: 1px solid #000000" src="img/tjuka2025_BodyObjectAnimal_LingDivSeries.png" width=" 250" height="310"></a>
+<a href="[slides/tjuka2024_Directional_Tendencies.pdf](https://div-ling.org/wp-content/uploads/2025/05/Tjuka2025-BodyObjectAnimal-LingDiv-Talk.pdf" target="_blank"><img style="border: 1px solid #000000" src="img/img/tjuka2025_BodyObjectAnimal_LingDivSeries.png" width=" 310" height="200"></a>
 
 Body, Objects, and Animals: Investigating the Factors Behind Naming Strategies
 
