@@ -46,6 +46,7 @@ _<a href="https://www.uni-jena.de/en/3mt" target="_blank">Three Minute Thesis Co
 
 
 - <a href="slides/tjuka2024_3MTC.pdf" target="_blank">Slide
+- <a href="https://www.uni-jena.de/en/219714/three-minute-thesis-competition-2024" target="_blank">Video
 
 	
 # 2023
